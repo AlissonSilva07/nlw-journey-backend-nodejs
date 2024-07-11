@@ -1,7 +1,8 @@
 # NLW Journey - Trilha Node.js
 
 ## Descrição do Projeto
-<img alt="plann.er logo" title="#NLW-Journey-Logo" src=".github/logo.svg" width="250px" />
+
+Plann.er
 
 O projeto tem como objetivo criar uma aplicação back-end em Node.js para armazenar e manipular dados de uma viagem.
 
